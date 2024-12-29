@@ -24,7 +24,7 @@ Welcome to my GitHub! I'm an aspiring Data Analyst committed to making data mean
 
 
 ### 📚 Projects
-Welcome to my portfolio, where I showcase my [project]().
+Welcome to my portfolio, where I showcase my [project](https://github.com/amansuren/Portfolio-Projects.git).
 
 
 
