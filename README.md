@@ -1,4 +1,4 @@
-<img align="right"  src="https://visitor-badge.laobi.icu/badge?page_id=amansuren.amansuren" />
+
 
 Hi 👋, I'm Aman Suren
 ===========================
