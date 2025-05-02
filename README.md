@@ -10,16 +10,16 @@ Welcome to my GitHub! I'm an aspiring Data Analyst committed to making data mean
 
 * 🌍  I'm based in New Delhi
 * ✉️  You can contact me at [amansuren08@gmail.com](mailto:amansuren08@gmail.com)
-* 🧠  I'm learning PostgreSQL and MongoDB
+* 🧠  I'm learning Matplotlib and Seaborn
 * 🤝  I'm open to collaborating on with fellow data enthusiasts to solve challenging problems.
 * ⚡  Future goal is to share my knowledge through blogging
 
 ### 🛠️ Skills Overview
 
-* Languages: Python, SQL
-* Libraries & Frameworks: Pandas, NumPy, matplotlib, Plotly, flask
-* Tools: Tableau, Power BI, Excel (Power Query, VBA, pivot tables)
-* Databases: PostgreSQL, MySQL, MongoDB
+* Languages: Python, SQL.
+* Libraries & Frameworks: Pandas, NumPy, matplotlib, Plotly, flask.
+* Tools: Tableau, Power BI, Excel (Power Query, VBA, pivot tables), Jupyter Notebook.
+* Databases: PostgreSQL, MySQL, MongoDB.
    
 
 
