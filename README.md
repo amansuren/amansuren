@@ -17,7 +17,7 @@ Welcome to my GitHub! I'm an aspiring Data Analyst committed to making data mean
 ### 🛠️ Skills Overview
 
 * Languages: Python, SQL.
-* Libraries & Frameworks: Pandas, NumPy, matplotlib, Plotly, flask.
+* Libraries & Frameworks: Pandas, NumPy, matplotlib, Plotly, tkinter, streamlit, flask.
 * Tools: Tableau, Power BI, Excel (Power Query, VBA, pivot tables), Jupyter Notebook.
 * Databases: PostgreSQL, MySQL, MongoDB.
    
